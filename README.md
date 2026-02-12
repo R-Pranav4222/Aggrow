@@ -1,5 +1,7 @@
 # Aggrow
 
+AI-Powered Crop Disease Detection
+
 ## Overview
 
 Aggrow is an AI powered crop disease detection and management system developed as part of Mini Project S6 - Model Engineering College Thrikkakkara
