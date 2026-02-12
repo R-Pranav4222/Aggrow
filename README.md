@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Abhijith-2002/Aggrow.git
+git clone https://github.com/R-Pranav4222/Aggrow.git
 cd Aggrow
 ```
 
